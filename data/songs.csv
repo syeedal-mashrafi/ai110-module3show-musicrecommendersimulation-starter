@@ -1,11 +1,21 @@
-id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+title,artist,genre,mood,energy,tempo_bpm
+Blinding Lights,The Weeknd,pop,happy,0.8,171
+Levitating,Dua Lipa,pop,happy,0.75,103
+Stay,Kid Laroi,pop,sad,0.6,170
+Dynamite,BTS,pop,happy,0.85,114
+Watermelon Sugar,Harry Styles,pop,happy,0.7,95
+HUMBLE.,Kendrick Lamar,hiphop,intense,0.9,150
+God's Plan,Drake,hiphop,happy,0.65,77
+Sicko Mode,Travis Scott,hiphop,intense,0.95,155
+Sunflower,Post Malone,hiphop,chill,0.5,90
+Rockstar,Post Malone,hiphop,sad,0.6,160
+Enter Sandman,Metallica,rock,intense,0.95,123
+Bohemian Rhapsody,Queen,rock,happy,0.7,72
+Black Hole Sun,Soundgarden,rock,sad,0.6,68
+Under the Bridge,RHCP,rock,chill,0.45,80
+Welcome to the Jungle,Guns N Roses,rock,intense,0.9,126
+Clair de Lune,Debussy,classical,chill,0.2,72
+River Flows in You,Yiruma,classical,chill,0.15,60
+Experience,Ludovico Einaudi,classical,sad,0.25,58
+All of Me,John Legend,rnb,sad,0.45,63
+Redbone,Childish Gambino,rnb,chill,0.5,96
